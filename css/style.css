@@ -1091,7 +1091,8 @@ ul.social_section_1info a {
     width: 49%;
 }
 .follow {
-    margin: 2em 0;
+    width: 70%;
+    margin: auto;
 	padding:2em 0;
 }
 .wedo {
