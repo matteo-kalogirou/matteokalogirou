@@ -1078,9 +1078,10 @@ section.content-inner {
     height: 210px;
 }
 ul.social_section_1info li a {
-    width: 36px;
+    width: 70%;
     height: 36px;
     line-height: 36px;
+    margin: auto;
 }
 ul.social_section_1info a {
     font-size: 18px;
